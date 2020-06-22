@@ -18,5 +18,10 @@
 
 <h2>Project Description</h2>
 <h3>Creating Dockerfile for Jenkins</h3>
+ ![dockerfile](https://raw.githubusercontent.com/yashbajpai98/task2LW/master/task2-images/dockerfile.PNG)
 
 Now, Build Image: docker build -t jenkins:v1
+ ![3](https://raw.githubusercontent.com/yashbajpai98/task2LW/master/task2-images/3.PNG)
+ 
+Now, Launch a new container through this image of jenkins:v1 so that jenkins get automatically launched.
+ 
