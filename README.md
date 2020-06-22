@@ -31,7 +31,7 @@ Now, Launch a new container through this image of jenkins:v1 so that jenkins get
 
 -v /:/host : mounting is done for this reason only.
 
--p 1234:8080 :  by exposing port we can access Jenkins server from http://localhost:1234
+-p 9999:8080 :  by exposing port we can access Jenkins server from http://localhost:9999
 For first time Jenkins will ask an Initial Admin Password which we can find in the running jenkins container :
 
  ![5](https://raw.githubusercontent.com/yashbajpai98/task2LW/master/task2-images/5.PNG)
